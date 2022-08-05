@@ -1,0 +1,17 @@
+/home/luiz/Documentos/projetos/mycode/bin/Debug/net6.0/mycode
+/home/luiz/Documentos/projetos/mycode/bin/Debug/net6.0/mycode.deps.json
+/home/luiz/Documentos/projetos/mycode/bin/Debug/net6.0/mycode.runtimeconfig.json
+/home/luiz/Documentos/projetos/mycode/bin/Debug/net6.0/mycode.dll
+/home/luiz/Documentos/projetos/mycode/bin/Debug/net6.0/mycode.pdb
+/home/luiz/Documentos/projetos/mycode/bin/Debug/net6.0/FluentColorConsole.dll
+/home/luiz/Documentos/projetos/mycode/obj/Debug/net6.0/mycode.csproj.AssemblyReference.cache
+/home/luiz/Documentos/projetos/mycode/obj/Debug/net6.0/mycode.GeneratedMSBuildEditorConfig.editorconfig
+/home/luiz/Documentos/projetos/mycode/obj/Debug/net6.0/mycode.AssemblyInfoInputs.cache
+/home/luiz/Documentos/projetos/mycode/obj/Debug/net6.0/mycode.AssemblyInfo.cs
+/home/luiz/Documentos/projetos/mycode/obj/Debug/net6.0/mycode.csproj.CoreCompileInputs.cache
+/home/luiz/Documentos/projetos/mycode/obj/Debug/net6.0/mycode.csproj.CopyComplete
+/home/luiz/Documentos/projetos/mycode/obj/Debug/net6.0/mycode.dll
+/home/luiz/Documentos/projetos/mycode/obj/Debug/net6.0/refint/mycode.dll
+/home/luiz/Documentos/projetos/mycode/obj/Debug/net6.0/mycode.pdb
+/home/luiz/Documentos/projetos/mycode/obj/Debug/net6.0/mycode.genruntimeconfig.cache
+/home/luiz/Documentos/projetos/mycode/obj/Debug/net6.0/ref/mycode.dll
